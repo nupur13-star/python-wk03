@@ -1,0 +1,2 @@
+I am Nupur Patel (S.ID: C0937308)
+This is my first github repository for 3rd python assignment for FSDO program.
